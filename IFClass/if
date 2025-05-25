@@ -1,0 +1,6 @@
+# File name: if_example.py
+
+age = 12
+
+if age >= 10:
+    print("You are older than 10!")
