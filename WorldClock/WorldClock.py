@@ -25,7 +25,9 @@ TIMEZONES_DATA = [
     {'country': 'Mexico (Mexico City)', 'timezone': 'America/Mexico_City', 'code': 'MX'},
     {'country': 'Argentina (Buenos Aires)', 'timezone': 'America/Argentina/Buenos_Aires', 'code': 'AR'},
     {'country': 'Italy (Rome)', 'timezone': 'Europe/Rome', 'code': 'IT'},
-    {'country': 'Spain (Madrid)', 'timezone': 'Europe/Madrid', 'code': 'ES'}
+    {'country': 'Spain (Madrid)', 'timezone': 'Europe/Madrid', 'code': 'ES'},
+    {'country': 'Israel (Tel Aviv)', 'timezone': 'Asia/Jerusalem', 'code': 'IL'}
+
 ]
 
 class WorldClockApp:
